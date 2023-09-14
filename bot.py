@@ -143,7 +143,6 @@ async def _call(ctx=SlashContext, cell_phone=str, otp_digits=str, client_name=st
         await ctx.channel.send(embed=embed)
     open('grabbed_otp.txt', 'w').close()
 
-
 @slash.slash(
     name='redial',
     description='If the OTP code supplied is not valid',
