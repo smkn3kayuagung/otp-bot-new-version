@@ -13,7 +13,6 @@
     For Step-By-Step Installation Process Join My Discord Server.
     And For more advanced Discord and Telegram OTP Bots.
 
-
 # For Customization or Private OTP Bots Contact me on my new Chennel and Server
 
     Discord Server:  https://discord.gg/CVgscsvRRx
