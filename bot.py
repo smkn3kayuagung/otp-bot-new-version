@@ -39,6 +39,7 @@ server_id = int(raw_config['server_id'])
 
 app = Flask(__name__)
 
+
 @slash.slash(
     name='dial',
     description='This is command to start making calls',
