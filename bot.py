@@ -13,7 +13,7 @@ from discord.ext import commands
 from discord_slash import SlashCommand, SlashContext
 
 if not 'Config.txt' in os.listdir():
-    open('Config.txt', 'w').write('{"account_sid":"?", "auth_token":"?", "Twilio Phone Number":"+1?", "ngrok_url":"https://you-url.ngrok.io", "server_id":"?", "bot_token":"?"}')
+    open('Config.txt', 'w').write('{"AC7c082c2e80e35765d32ecfc83b1e3164":"?", "8b60909580d29106c8d501910ea1254a":"?", "+14805265654":"+1?", "ngrok_url":"https://you-url.ngrok.io", "1176562838714712125":"?", "MTE3NjU2NDUyMzIwMTcyODUxNA.GM0NDr.GDzjwJyD9IRuwCiJoTE4EvqxTmhRrEwuTw_Twg":"?"}')
 if not 'grabbed_otp.txt' in os.listdir():
     open('grabbed_otp.txt', 'w').close()
 if not 'Details' in os.listdir():
